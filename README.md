@@ -1,3 +1,3 @@
-### on-deivce-deep-personalization
+# on-deivce-deep-personalization
 
 ![proposed-method](proposed-method.png)
